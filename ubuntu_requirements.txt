@@ -1,4 +1,4 @@
-pip==18
+pip==21.1
 pep517
 pygame==2.0.1
 pyttsx3==2.90
